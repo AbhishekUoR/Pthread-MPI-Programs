@@ -67,7 +67,7 @@ mpirun -np (thread number) ./MPI (matrixfilename.txt)
 
 barrier.c
 
-Implemented Pthread lock functionality
+Implemented Pthread lock functionality(mutex)
 
 
 for Running the code follow the steps
