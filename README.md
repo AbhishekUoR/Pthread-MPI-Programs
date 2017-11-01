@@ -65,7 +65,18 @@ mpicc MPI.c -o MPI
 mpirun -np (thread number) ./MPI (matrixfilename.txt)
 
 
+barrier.c
 
+Implemented Pthread lock functionality
+
+
+for Running the code follow the steps
+
+
+gcc -lpthread -o (output filename) barrier.c
+
+
+And then: ./(outputfilename) (thread number)
 
 
 
