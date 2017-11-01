@@ -4,6 +4,8 @@ MatrixMultiplication.c
 
 This is a simple pthread version of matrix multiplication
 for Running the code follow the steps:
+
+
 1)Type commmand:gcc filename.c -o thread -lpthread
 
 
